@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.btns {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+.btns button {
+  padding: 8px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: sticky;
+  top: 0;
+  padding: 50px;
+  background-color: #fff;
+  width: 100%;
+}
