@@ -10,17 +10,6 @@ This widely adopted virtualization library has a rich set of components for effi
 
 **Code Formatter:** [Prettier](https://prettier.io/), [Eslint](https://eslint.org/)
 
-## Demo
-
-with simple list=>
-
-![directly-rendered-large-list-reduces-react-performance-1](https://github.com/Akshay8122/React-virtualized-demo/assets/73658839/e5bb1bc9-6f3b-4fdc-8dc8-489fe02d9b18)
-
-using react virtualized=>
-
-![using-virtualized-list-rendering-large-list](https://github.com/Akshay8122/React-virtualized-demo/assets/73658839/77067d9a-8ae8-4b04-bee8-8c02cd1dfdbb)
-
-
 ## 🛠️ Installation
 
 
@@ -36,3 +25,15 @@ Install dependencies as follows:
 yarn add react-virtualized lorem-ipsum
 
 ``` 
+
+## Demo
+
+with simple list=>
+
+![directly-rendered-large-list-reduces-react-performance-1](https://github.com/Akshay8122/React-virtualized-demo/assets/73658839/e5bb1bc9-6f3b-4fdc-8dc8-489fe02d9b18)
+
+using react virtualized=>
+
+![using-virtualized-list-rendering-large-list](https://github.com/Akshay8122/React-virtualized-demo/assets/73658839/77067d9a-8ae8-4b04-bee8-8c02cd1dfdbb)
+
+
